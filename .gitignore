@@ -1,0 +1,86 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serdata/
+[Ii]mportSettings.asset
+*.apk
+*.unitypackage
+
+# Visual Studio / MonoDevelop generated files
+[Ee]xportedObj/
+.vs/
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.dll
+/*.pdb
+/*.mdb
+/*.meta
+/*.generated.cs
+
+# MonoDevelop project files
+*.pidb.meta
+
+# Mac files
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.dmg
+*.app
+*.exe
+*.ipa
+*.xcworkspace
+*.xcuserstate
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Crashlytics
+crashlytics-build.properties
+
+# Android Studio
+*.iml
+.idea
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+.DS_Store
+/captures
+.externalNativeBuild
+
+# Gradle
+build/
+
+# Temporary files
+*.pidb
+*.apk
+*.aar
+*.unityproj
+*.unitypackage
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Unity3D Generated File On Crash Reports
+*.stacktrace
+
+# Unity3D Generated File On Crash Reports
+*.log
+
+# Builds
+*.apk
+*.aab
+
+# Gradle
+.gradle/
